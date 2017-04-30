@@ -42,6 +42,7 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+.recommenders
 
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
