@@ -1,0 +1,8 @@
+package com.code.interview.bit;
+
+public class LongestArithMaticProgresion {
+	public static void main(String[] args) {
+		
+	}
+
+}

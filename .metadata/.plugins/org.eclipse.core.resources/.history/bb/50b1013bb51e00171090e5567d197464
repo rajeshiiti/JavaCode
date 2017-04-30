@@ -1,0 +1,30 @@
+package com.code.interview.bit;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class LongestArithMaticProgresion {
+	public static void main(String[] args) {
+		
+	}
+	
+	 public int solve(final List<Integer> A) {
+		 if(A.size()<=2) {
+			 return A.size();
+		 }
+		 ArrayList<Integer> list = new ArrayList<Integer>();
+		 for(int i=0;i<A.size();i++) {
+			 list.add(A.get(i));
+		 }
+		 int n = A.size();
+		 Collections.sort(list);
+		 int[][] dp = new int[A.size()][A.size()];
+		 for(int i=0;i<list.size();i++) {
+			 dp[i][]
+		 }
+		return 0;
+		 
+	 }
+
+}

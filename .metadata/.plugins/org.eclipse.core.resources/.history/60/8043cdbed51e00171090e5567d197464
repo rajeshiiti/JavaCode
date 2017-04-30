@@ -1,0 +1,10 @@
+package com.code.interview.bit;
+
+public class MakingStringPallindromic {
+	
+	public int solve(String A) {
+		return 0;
+		
+    }
+
+}

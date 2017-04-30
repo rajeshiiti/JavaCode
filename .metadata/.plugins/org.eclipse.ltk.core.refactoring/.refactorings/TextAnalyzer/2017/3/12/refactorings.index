@@ -1,0 +1,13 @@
+1489992671505	Delete elements
+1489992678286	Delete elements
+1489993132064	Move compilation unit
+1489993140002	Delete element
+1489993897508	Rename type 'Text'
+1489994778684	Rename package 'com.text.analyzer.service'
+1489994899576	Rename package 'com.text.analyzer.serviceImpl'
+1489994933680	Move compilation unit
+1489996408764	Rename package 'com.text.analyzer.Idao'
+1489996619488	Rename type 'TextDao'
+1489997429933	Rename type 'AnalyzeText'
+1490008597174	Rename package 'com.text.analyzer.database.connection'
+1490008622553	Rename package 'com.text.analyzer.database.impl'
