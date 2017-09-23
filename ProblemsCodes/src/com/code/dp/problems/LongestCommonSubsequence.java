@@ -2,7 +2,7 @@ package com.code.dp.problems;
 
 public class LongestCommonSubsequence {
 	public static void main(String[] args) {
-		System.out.println(lcs("ABBCDFDGDH","DDBCFGH"));
+		System.out.println(lcs("ABBCDFDGD","DDBCFGH"));
 	}
 	public static int lcs(String a,String b) {
 		
